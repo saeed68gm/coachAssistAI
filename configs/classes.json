@@ -1,0 +1,32 @@
+[
+  {
+    "day": "Wednesday",
+    "class_name": "Move INSAND",
+    "time": "05:30 PM",
+    "location": "Huntington Beach - Newland and PCH"
+  },
+  {
+    "day": "Wednesday",
+    "class_name": "INSAND Skills",
+    "time": "06:30 PM",
+    "location": "Huntington Beach - Newland and PCH"
+  },
+  {
+    "day": "Saturday",
+    "class_name": "Move INSAND",
+    "time": "7:00 AM",
+    "location": "Huntington Beach (15th St & PCH)"
+  },
+  {
+    "day": "Saturday",
+    "class_name": "INSAND Skills",
+    "time": "8:00 AM",
+    "location": "Huntington Beach (15th St & PCH)"
+  },
+  {
+    "day": "Saturday",
+    "class_name": "Move INSAND",
+    "time": "9:30 AM",
+    "location": "Huntington Beach (15th St & PCH)"
+  }
+]

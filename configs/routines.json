@@ -1,0 +1,8 @@
+{
+  "1": { "exercises": ["Bench Press", "Rows", "Pull-ups", "Shoulder Press"], "duration_minutes": 45, "intensity": "High" },
+  "2": { "exercises": ["Squats", "Deadlifts", "Leg Press", "Lunges"], "duration_minutes": 45, "intensity": "High" },
+  "3": { "exercises": ["Running", "Planks", "Russian Twists", "Bicycle Crunches"], "duration_minutes": 45, "intensity": "Medium" },
+  "4": { "exercises": ["Dumbbell Press", "Lat Pulldowns", "Bicep Curls", "Tricep Dips"], "duration_minutes": 45, "intensity": "Medium" },
+  "5": { "exercises": ["Leg Curls", "Leg Extensions", "Calf Raises", "Hip Thrusts"], "duration_minutes": 45, "intensity": "Medium" },
+  "6": { "exercises": ["Yoga", "Stretching", "Light Cycling", "Walking"], "duration_minutes": 45, "intensity": "Low" }
+}

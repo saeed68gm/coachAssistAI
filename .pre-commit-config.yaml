@@ -1,0 +1,8 @@
+repos:
+  - repo: https://github.com/charliermarsh/ruff-pre-commit
+    rev: v0.6.0
+    hooks:
+      - id: ruff
+        # Lint-only mode for pre-commit: show warnings but do not block commits.
+        # Use --exit-zero so the hook returns success even if issues are found.
+        args: ["--line-length=88", "--exit-zero"]
