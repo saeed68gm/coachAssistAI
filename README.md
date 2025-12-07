@@ -1,3 +1,31 @@
+🏋️ Workout Planning Service Demo
+
+============================================================
+
+📍 Selected Class: Move INSAND (Saturday 9:30 AM)
+Location: Huntington Beach (15th St & PCH)
+Attendees (6): Tiffany Henderson, Mike Haar, Michelle Maloney, Sai Bagheri, Cole Aidnik, Doug Jones
+
+🌍 Weather (Huntington Beach):
+   Wind Speed: 7.4 m/s
+   Description: Clear
+   Temperature: 18.3 °C
+Selected Routine: 5 - Duration: 45 min - Intensity: Medium
+Exercises: Leg Curls, Leg Extensions, Calf Raises, Hip Thrusts
+
+Weekly Overview (Dec 1-7, 2025):
+
+Monday     | Monday Routine            | Attendance:  0 | Duration:  45 min | Intensity: High  
+Tuesday    | Tuesday Routine           | Attendance:  0 | Duration:  45 min | Intensity: High  
+Wednesday  | Wednesday Routine         | Attendance:  2 | Duration:  45 min | Intensity: Medium
+Thursday   | Thursday Routine          | Attendance:  0 | Duration:  45 min | Intensity: Medium
+Friday     | Friday Routine            | Attendance:  0 | Duration:  45 min | Intensity: Medium
+Saturday   | Saturday Routine          | Attendance:  2 | Duration:  45 min | Intensity: Low   
+Sunday     | Sunday Routine            | Attendance:  0 | Duration:  45 min | Intensity: Low   
+
+============================================================
+✅ Demo completed successfully!
+
 # CoachAssistAI — Workout Planning Service
 
 A small Python service that generates daily workout plans by combining:
@@ -14,7 +42,6 @@ Open-Meteo, and prints a weekly overview.
 ## Quick links
 
 - Demo runner: `demo.py`
-- Main program: `main.py`
 - Tests: `test_workout_planner.py`
 
 ## Run locally
